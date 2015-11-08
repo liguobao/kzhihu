@@ -1,0 +1,9 @@
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\bin\Debug\kzhihuWF.exe.config
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\bin\Debug\kzhihuWF.exe
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\bin\Debug\kzhihuWF.pdb
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\obj\Debug\kzhihuWF.csprojResolveAssemblyReference.cache
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\obj\Debug\kzhihuWF.Search.resources
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\obj\Debug\kzhihuWF.Properties.Resources.resources
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\obj\Debug\kzhihuWF.csproj.GenerateResource.Cache
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\obj\Debug\kzhihuWF.exe
+c:\users\lgb83\documents\visual studio 2015\Projects\kzhihu\kzhihuWF\obj\Debug\kzhihuWF.pdb

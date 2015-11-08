@@ -1,0 +1,5 @@
+C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihu\bin\Debug\kzhihu.dll
+C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihu\bin\Debug\kzhihu.pdb
+C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihu\obj\Debug\kzhihu.csprojResolveAssemblyReference.cache
+C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihu\obj\Debug\kzhihu.dll
+C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihu\obj\Debug\kzhihu.pdb

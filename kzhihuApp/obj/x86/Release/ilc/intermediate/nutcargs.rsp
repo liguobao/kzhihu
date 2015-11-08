@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihuApp\obj\x86\Release\ilc\intermediate\ILTransformed\kzhihuApp.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihuApp\obj\x86\Release\ilc\intermediate\ILTransformed\kzhihuApp.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihuApp\obj\x86\Release\ilc\intermediate\ILTransformed\kzhihuApp.ilexe"
+/out "C:\Users\LGB83\documents\visual studio 2015\Projects\kzhihu\kzhihuApp\obj\x86\Release\ilc\intermediate\MDIL\kzhihuApp.mdilexe"

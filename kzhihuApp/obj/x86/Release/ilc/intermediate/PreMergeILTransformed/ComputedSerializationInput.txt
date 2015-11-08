@@ -1,0 +1,4 @@
+"/t:System.Object,System.Runtime,json"
+"/t:kzhihuApp.Model.GetPostAnswers,kzhihuApp,json"
+"/t:kzhihuApp.Model.GetPosts,kzhihuApp,json"
+"/t:kzhihuApp.Model.SearchUser,kzhihuApp,json"
